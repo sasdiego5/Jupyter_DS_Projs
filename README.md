@@ -6,4 +6,4 @@ This repository is my Data Science Portfolio, showing my knowledge in different 
 - [Explore gun deaths in US] https://github.com/sasdiego5/Jupyter_DS_Projs/blob/master/Exploring_Gun_Deaths_US/Gun_Deaths_US.ipynb
 - [Dimensionality Reduction] https://github.com/sasdiego5/Jupyter_DS_Projs/blob/master/DimensionReduction/DimensionalityReduction.ipynb
 - [Customer Classification] https://github.com/sasdiego5/Jupyter_DS_Projs/blob/master/Classification/Customer_Classification.ipynb
-
+- [Explore eBay Car Sales with Pandas & Data Cleaning] https://github.com/sasdiego5/Jupyter_DS_Projs/blob/master/Exploring_Ebay_Car_Sales_Data/Pandas_%26_Data_Cleaning.ipynb
