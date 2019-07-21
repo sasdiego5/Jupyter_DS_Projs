@@ -14,4 +14,5 @@ https://github.com/sasdiego5/Jupyter_DS_Projs/blob/master/Visualizing_Gender_Gap
 - [Predict House Prices with Linear Regression] https://github.com/sasdiego5/Jupyter_DS_Projs/blob/master/LinearRegression/Predict_HousePrices_LinearRegression.ipynb
 - [Dimensionality Reduction] https://github.com/sasdiego5/Jupyter_DS_Projs/blob/master/DimensionReduction/DimensionalityReduction.ipynb
 - [Customer Classification] https://github.com/sasdiego5/Jupyter_DS_Projs/blob/master/Classification/Customer_Classification.ipynb
-
+- [Employee Attrition Decision Tree]
+https://github.com/sasdiego5/Jupyter_DS_Projs/blob/master/DecisionTree_EmpAttr/EmployeeDecisionTree.ipynb
