@@ -16,3 +16,5 @@ https://github.com/sasdiego5/Jupyter_DS_Projs/blob/master/Visualizing_Gender_Gap
 - [Customer Classification] https://github.com/sasdiego5/Jupyter_DS_Projs/blob/master/Classification/Customer_Classification.ipynb
 - [Employee Attrition Decision Tree]
 https://github.com/sasdiego5/Jupyter_DS_Projs/blob/master/DecisionTree_EmpAttr/EmployeeDecisionTree.ipynb
+- [Malaria Cell Images Classification with CNN Keras]
+https://github.com/sasdiego5/Jupyter_DS_Projs/blob/master/Malaria_Image_Processing/SourceCode_DiegoOrejuela.ipynb
